@@ -1,7 +1,7 @@
 # OCR_Yanzhengma
 python、从创建验证码开始，到识别他。
 
-详细内容可查看csdn博客：
+详细内容可查看csdn博客： 
 https://blog.csdn.net/weixin_43582101/article/details/91160276
 
 
